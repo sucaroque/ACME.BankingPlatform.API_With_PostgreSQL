@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ACME.BankingPlatform.API.props" />
+</Project>

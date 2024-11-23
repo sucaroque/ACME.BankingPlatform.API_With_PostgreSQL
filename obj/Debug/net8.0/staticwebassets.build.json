@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tkluSCgjYKPc7mx0C9hXlevMbBaPIj9vTKgbtzFaOJY=",
+  "Source": "ACME.BankingPlatform.API",
+  "BasePath": "_content/ACME.BankingPlatform.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

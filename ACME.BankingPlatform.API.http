@@ -1,0 +1,6 @@
+@ACME.BankingPlatform.API_HostAddress = http://localhost:5098
+
+GET {{ACME.BankingPlatform.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
